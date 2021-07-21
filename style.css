@@ -80,3 +80,78 @@ body{
     font-size: 4em;
     font-family: 'Otomanopee One', sans-serif;
 }
+.navbar-right
+{
+    display: flex;
+    flex-direction: column;
+
+}
+.navbar-right a 
+{
+    margin-top:20px;
+    color:rgba(255, 255, 255, 0.6);
+    font-size: 1.3em;
+    text-decoration: none;
+  
+}
+.icons
+{
+   position: absolute;
+   right: 0;
+
+   
+
+}
+.icons i
+{
+    font-size: 1.3em;
+    color: #FFFFEB;
+    margin-right: 20px;
+    
+}
+
+.photo-side
+{
+    border: 2px solid red;
+    width: 100%;
+    height: 50vh;
+
+}
+.bottom-text
+{
+    
+    width: 100%;
+    height: 40vh;
+}
+.col-5 h5
+{
+    color: rgba(255, 255, 255, 0.788);
+}
+.col-5 h2
+{
+    color: white;
+    font-weight: bolder;
+    font-size: 2.4em;
+}
+.btn-bottom
+{
+    color:white;
+    background-color: #38295B;
+    border-radius: 20px;
+    border: 1px solid #FFFFE8;
+    width: 70%;
+    padding: 5px;
+    margin-top: 7%;
+}
+.paragraph
+{
+   margin:0 10%;
+}
+.about-book
+{
+    margin: 10%;
+}
+.paragraph p
+{
+    color: rgba(255, 255, 255, 0.788);
+}
